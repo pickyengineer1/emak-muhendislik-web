@@ -1,0 +1,111 @@
+30.09.2026 — Gerçek fotoğraflı yuvarlak bronz anahtar; sağ kenarda ince boru ve üst köşede tek anahtar. Yukarı: beyaz, aşağı: antrasit. Fare, dokunma, Enter/Boşluk ve yön tuşları desteklenir.
+
+Kullanılmayan eski kordon, kapak dosyaları, kaynak görsel metadataları ve kullanılmayan arayüz bileşenleri silindi. Video, galeriler, lisanslar, kaynak proje ve kurulumsuz önizleme korundu.
+
+Silinen dosyalar:
+src/components/ui/sheet.tsx
+src/components/ui/resizable.tsx
+src/components/ui/collapsible.tsx
+src/components/ui/input.tsx
+src/components/ui/textarea.tsx
+src/components/ui/switch.tsx
+src/components/ui/input-otp.tsx
+src/components/ui/tabs.tsx
+src/components/ui/sonner.tsx
+src/components/ui/card.tsx
+src/components/ui/carousel.tsx
+src/components/ui/separator.tsx
+src/components/ui/scroll-area.tsx
+src/components/ui/context-menu.tsx
+src/components/ui/label.tsx
+src/components/ui/alert-dialog.tsx
+src/components/ui/sidebar.tsx
+src/components/ui/alert.tsx
+src/components/ui/checkbox.tsx
+src/components/ui/dropdown-menu.tsx
+src/components/ui/menubar.tsx
+src/components/ui/tooltip.tsx
+src/components/ui/pagination.tsx
+src/components/ui/drawer.tsx
+src/components/ui/skeleton.tsx
+src/components/ui/toggle.tsx
+src/components/ui/progress.tsx
+src/components/ui/button.tsx
+src/components/ui/avatar.tsx
+src/components/ui/toggle-group.tsx
+src/components/ui/form.tsx
+src/components/ui/accordion.tsx
+src/components/ui/popover.tsx
+src/components/ui/slider.tsx
+src/components/ui/breadcrumb.tsx
+src/components/ui/command.tsx
+src/components/ui/chart.tsx
+src/components/ui/navigation-menu.tsx
+src/components/ui/select.tsx
+src/components/ui/hover-card.tsx
+src/components/ui/aspect-ratio.tsx
+src/components/ui/calendar.tsx
+src/components/ui/badge.tsx
+src/components/ui/table.tsx
+src/components/ui/radio-group.tsx
+src/components/prompts-chat/tooltip.tsx
+public/media/jut-halat.png
+public/emak-hero-poster.jpg
+onizleme/media/jut-halat.png
+onizleme/emak-hero-poster.jpg
+src/assets/emak-enhanced-hero-web.mp4.asset.json
+src/assets/emak-logo-light.png.asset.json
+src/assets/emak-logo.jpg.asset.json
+src/assets/emak-hero-frame.jpg.asset.json
+src/assets/emak-enhanced-hero.mp4.asset.json
+src/assets/emak-hero.jpg.asset.json
+src/assets/emak-hero-loop.mp4.asset.json
+bun.lock
+bunfig.toml
+roadmap.md
+src/routes/README.md
+src/hooks/use-mobile.tsx
+
+Boru ve yan bağlantılar: anahtarın kendi döküm bronz yüzeyinden alınan fotoğraf dokusu; aynı eskitilmiş bronz tonları.
+Boru ve anahtar ekranın sağında sabit: bütün bölümlerde kaydırma sırasında kullanılabilir.
+
+Son yerleşim: yan kol tamamen kaldırıldı. Yuvarlak anahtar doğrudan dikey borunun merkezinde; boru üstten ve alttan devam eder. Sabit konum ve bronz doku korundu.
+
+Açılışın altına Emak Elektrik, Misyonumuz ve Vizyonumuz metinleri eklendi. Hakkımızda kuruluş hikâyesi kullanıcı görseline göre güncellendi. Kaynak PDF’deki 32 yıllık ifadesi aynen korundu.
+Sayfanın en altına İlk dükkânımız arşiv fotoğrafı eklendi; orijinal fotoğraf kırpılmadan kullanıldı.
+
+The One Bodrum başlığına 6 fotoğraf eklendi; büyütme ve önceki/sonraki galerisi ile görüntülenir.
+
+Hakkımızda metni tek sütun içinde tek bütün paragraf halinde düzenlendi. Açılış altındaki üç bölüm korundu.
+
+Proje başlığına tıklayınca seçilen fotoğraf galerisine yumuşak kaydırma; sabit menü için üst boşluk ve azaltılmış hareket tercihi desteği.
+
+Proje listesi istenen sırayla 11 başlığa indirildi. Mandarin C1, Hebil Blue ve The One mevcut fotoğrafları korundu; başlık tıklamasıyla galeriye kaydırma korundu.
+
+Font güncellemesi: Başlıklarda geometrik URW Gothic, metinlerde Nimbus Sans. Türkçe karakterli fontlar yerel dosyalarla eklendi; çevrimdışı önizleme güncellendi.
+
+Açılış videosu: Kullanıcının Video2X/RealESRGAN çıktısından 3840×2160, 24 fps H.264 web sürümü hazırlandı. Ses kaldırıldı, hızlı başlama etkinleştirildi ve kapak görseli yeni videodan yenilendi.
+
+Son temizlik: Önizlemedeki mükerrer video, fotoğraf ve font dosyaları kaldırıldı; önizleme ortak public dosyalarına bağlandı. Geçici derleme çıktıları ve kurulu paketler temizlendi. Güncel içerik ve özellikler korundu.
+
+VIDA LOCA: Kullanıcının gönderdiği 10 fotoğraf orijinal kaliteleriyle eklendi. Kaynak site ve kurulumsuz önizleme galerileri güncellendi.
+
+REEF JOY: Gönderilen fotoğraf ilgili galeriye eklendi.
+
+REEF JOY galerisine 2 ek fotoğraf yerleştirildi; toplam 3 fotoğraf.
+
+CAMEL BEACH SALT BODRUM başlığı ve 5 fotoğraflık galerisi eklendi.
+
+WEST GÜMÜŞLÜK başlığı ve 7 fotoğraflık galerisi eklendi.
+
+CELESTE BELLA: Gönderilen 6 fotoğraf mevcut başlığın galerisine eklendi.
+
+DENPA başlığı ve gönderilen fotoğrafı eklendi.
+
+D PLAJ başlığı ve gönderilen 4 fotoğrafı eklendi.
+
+YEDİTEPE EVLERİ başlığı ve gönderilen 4 fotoğrafı eklendi.
+
+OPUS GÜMÜŞLÜK başlığı ve gönderilen 2 fotoğrafı eklendi.
+
+BREKKIE: Gönderilen 10 fotoğraf mevcut başlığın galerisine eklendi.

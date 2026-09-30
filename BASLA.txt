@@ -1,0 +1,11 @@
+EMAK — Güncel site
+
+1. ZIP dosyasını tamamen bir klasöre çıkartın.
+2. Kurulumsuz önizleme: onizleme/index.html dosyasını tarayıcıda açın.
+3. Kaynak proje için: npm ci --ignore-scripts --no-audit --no-fund ardından npm run dev
+
+Sağ üstteki bronz anahtara tıklayın. Yukarı: beyaz; aşağı: antrasit. Klavyede Tab ile seçip yukarı/aşağı veya Enter/Boşluk kullanabilirsiniz.
+
+Video, logo, fontlar, 16 Hebil Blue, 8 Mandarin Oriental, 6 The One ve 10 Vida Loca fotoğrafı ve ilk dükkân görseli yereldir. Canlı siteye yükleme yapılmamıştır.
+
+Önizleme public klasöründeki ortak dosyaları kullanır. ZIP içindeki klasör yapısını koruyun; index.html dosyasını tek başına taşımayın.
