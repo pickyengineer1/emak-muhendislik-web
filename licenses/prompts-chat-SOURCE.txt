@@ -1,0 +1,8 @@
+Source: https://github.com/f/prompts.chat
+Revision: f78a1c5136fa080155d928e0d7e2b4a41ddef03e
+
+Imported source files:
+src/components/ui/masonry.tsx -> src/components/prompts-chat/masonry.tsx
+src/components/ui/tooltip.tsx -> src/components/prompts-chat/tooltip.tsx
+
+Masonry adapted for strict TypeScript and a visible server-rendered fallback. Tooltip retained from the repository. These components are used in the project galleries and the rope-operated theme control.
