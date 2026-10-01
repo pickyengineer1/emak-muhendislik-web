@@ -30,6 +30,7 @@ const NAV = [
   { href: "#hizmetler", label: "Hizmetler" },
   { href: "#projeler", label: "Projeler" },
   { href: "#hakkimizda", label: "Hakkımızda" },
+  { href: "otomasyon/index.html", label: "Otomasyon" },
   { href: "#iletisim", label: "İletişim" },
 ];
 
